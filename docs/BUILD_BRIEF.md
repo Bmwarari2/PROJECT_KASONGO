@@ -30,7 +30,7 @@ wait for the owner to start the build.
 
 As in `CLAUDE.md`: operational integrity (immutable stock transactions, exact quantities, immutable valuation
 layers, accounting events in the same transaction, complete lot genealogy); privacy and data residency (home regions
-UK europe-west2, EU europe-west3, US us-east5; nothing leaves the cell); security (forced RLS, MFA, audit, ASVS L2,
+UK europe-west2, EU europe-west3, US us-central1; nothing leaves the cell); security (forced RLS, MFA, audit, ASVS L2,
 no keys); quality (WCAG 2.2 AA, i18n, rules as sourced and effective-dated data); the suite design system with ERP's
 accent; and optional, draft-only AI.
 
