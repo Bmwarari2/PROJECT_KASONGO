@@ -297,7 +297,7 @@ accessibility audit; restore and zone-failure drills; staging in each region bef
 
 | Needs | From | By phase |
 | --- | --- | --- |
-| Platform kit packages (core, db, auth, Studio, shell) | `thapsus-platform` | 0 |
+| Platform kit packages (core, db, auth, Studio, shell) | `PROJECT_ATLAS` | 0 |
 | Finance accounting-events API (mock first, live later) | Finance Phase 1 (mock), Finance Stage 3 (live) | 0 / 16 |
 | Customer and supplier financial fields | Finance | 2–3 (mock), 16 |
 | Quote acceptance, catalogue consumers | CRM | 16 |
